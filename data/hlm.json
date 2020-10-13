@@ -1,0 +1,5378 @@
+[
+    {
+        "Person": {
+            "name": "平原侯",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "嫣红",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "蕊官",
+            "age": 25,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "兴儿",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "老叶妈",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "孙绍祖",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李公子",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "紫鹊",
+            "age": 21,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "马尚",
+            "age": 20,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "小吉祥",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周妈妈",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周瑞女儿",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "邢夫人",
+            "age": 46,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "佳蕙",
+            "age": 41,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "抱琴",
+            "age": 49,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "吴天佑",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "藕官",
+            "age": 25,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "胡氏",
+            "age": 35,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "翡翠",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩鸾",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "来旺儿",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩霞之母",
+            "age": 27,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾化",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "秦思祺",
+            "age": 50,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "马魁",
+            "age": 34,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "侯明",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "花芳官",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "秦可卿",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "迎春乳母",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "甄宝玉祖母",
+            "age": 25,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "侯孝康",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "喜儿",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "张大老爷",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵嬷嬷",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "金彩",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李纹",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "吴贵妃",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "翠缕",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "寿儿",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾母",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾敏",
+            "age": 42,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "娇红",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王住儿媳妇",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "潘又安",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "卫若兰",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "赖大的女儿",
+            "age": 39,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾珠",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "林之孝",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "南安郡王之孙",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王夫人",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛公之孙",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "长安原任守备",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王嬷嬷",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "娄氏",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛宝钗",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "韩奇",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾演",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾蔷",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "引泉",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "张大财主",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "刑大舅二姐",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "史鼐",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "篆儿",
+            "age": 25,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵姨娘",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "多官",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "绮霞",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "卜世仁店里伙计",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "卜银姐",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "史湘云",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李守中",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "刘氏",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "檀云",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "夏婆子",
+            "age": 31,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "焦大",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "太上皇",
+            "age": 37,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王仁",
+            "age": 20,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王熙凤",
+            "age": 35,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛宝琴母",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾琼",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "碧痕",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾代化",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "南安王太妃",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "太祖皇帝",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "丰儿",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "史湘云爷爷",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "秋桐",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周姨娘",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "绣桔",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王子腾",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "智通",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李妈",
+            "age": 25,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "林如海",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "尤二姐",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "文杏",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王夫人之大兄凤姐之父",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "良儿",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "茜雪",
+            "age": 39,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "梅翰林之子",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "东安郡王穆莳拜",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾敷",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李纨",
+            "age": 42,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王板儿",
+            "age": 29,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "茄官",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "花自芳",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "傅秋芳",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "宝蟾",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "翠云",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩霞",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "费婆子",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "五嫂子卜氏",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "四儿",
+            "age": 49,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "通判傅试",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "旺儿媳妇",
+            "age": 34,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩云",
+            "age": 29,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "缮国公诰命",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "小鹊",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵国基",
+            "age": 49,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "东平郡王",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "北静郡王",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "圆心",
+            "age": 40,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "尤氏",
+            "age": 39,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾琼之母",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "文花",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵天栋",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "史侯",
+            "age": 21,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾兰",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "南安郡王",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "柳彪",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "碧月",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李衙内",
+            "age": 21,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "净虚",
+            "age": 46,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾芹",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "史鼎",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛蝌",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "牛继宗",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "银蝶",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "何春燕",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾瑞",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "鲍二",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王荣",
+            "age": 45,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "谢鲸",
+            "age": 40,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "何婆",
+            "age": 25,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "傻大姐",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾瑞之父",
+            "age": 35,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "娇杏",
+            "age": 42,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "林如海之祖",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "绣凤",
+            "age": 40,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩屏",
+            "age": 40,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾环",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "扫花",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "周贵人",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "锄药",
+            "age": 28,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "佩凤",
+            "age": 27,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "多浑虫父亲",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾惜春",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "晴雯",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "邢岫烟",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "荳官",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "皇太后",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "琥珀",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "小蝉",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "史鼎的夫人",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "智能儿",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "双寿",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "秋纹",
+            "age": 34,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "艾官",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周贵人父亲",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "小舍儿",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "雪雁",
+            "age": 49,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "善姐",
+            "age": 27,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "白玉钏",
+            "age": 28,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "景田侯",
+            "age": 29,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "襄阳侯",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "夏金桂",
+            "age": 37,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "北静王太妃",
+            "age": 42,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "坠儿",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "陈瑞文",
+            "age": 38,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "倪儿娘子",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王成父",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "马道婆",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "瑞珠",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "镇国公诰命",
+            "age": 20,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "新进来的奶子",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李贵",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾政",
+            "age": 42,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "倪二女儿",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "胡老爷",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "双瑞",
+            "age": 41,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "来喜家的",
+            "age": 29,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "宋嬷嬷",
+            "age": 40,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "锦乡侯诰命",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "胡老爷公子",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "柳芳",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "蒋子宁",
+            "age": 31,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "北静郡王长府官",
+            "age": 25,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "柳五儿",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "张嬷嬷",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛宝琴父",
+            "age": 37,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李绮",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "凤姐之祖王夫人之父",
+            "age": 21,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "同贵",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾巧姐",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "白老媳妇",
+            "age": 50,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "皇帝",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "蒋玉菡",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "墨雨",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "鸳鸯",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾琮",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "老姨奶奶",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "吴贵",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "炒豆儿",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛宝衩",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "何三",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "文官",
+            "age": 42,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾璜",
+            "age": 39,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "甄宝玉",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "偕鸾",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "小丫头子",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "庆儿",
+            "age": 29,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "珍珠",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "小鸠儿",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "老苍头",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "西宁郡王",
+            "age": 34,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "翠墨",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "尤老娘",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "锦田侯诰命",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾珍",
+            "age": 30,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王信媳妇",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "麝月",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵亦华",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "臻儿",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "鹦鹉",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "卜世仁娘子",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "绣鸾",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王公",
+            "age": 39,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "张大老爷之女",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "芳官",
+            "age": 28,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾蓉",
+            "age": 39,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "智能",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "甄应嘉",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾瑞之母",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "葵官",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李嬷嬷",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "隆儿",
+            "age": 29,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛姨妈",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周瑞",
+            "age": 38,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "水溶",
+            "age": 40,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "智善",
+            "age": 43,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "金荣",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩明",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "赵天梁",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾元春",
+            "age": 25,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "莺儿",
+            "age": 39,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "伴鹤",
+            "age": 38,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王善保",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "宝钗祖父",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "李婶之弟",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周琼之子",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "定城侯",
+            "age": 45,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "甄夫人",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "厨房中的柳家媳妇",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "莲花儿",
+            "age": 30,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "小霞",
+            "age": 31,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾菌",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王子腾之女",
+            "age": 31,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "赖大",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "神武将军冯唐",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "玻璃",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "刑秞烟",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "林黛玉",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "邢德全",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "赖尚荣",
+            "age": 29,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾代善",
+            "age": 50,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "周秀才",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "天子之妻",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "尤三姐",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "金文翔",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "袭人之母",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "缮国公",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "昭儿",
+            "age": 28,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛公",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "小螺",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "应天府门子",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "春纤",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "秦业",
+            "age": 21,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "周财主",
+            "age": 37,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "保宁侯之子",
+            "age": 29,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "老舅太太",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "裘良",
+            "age": 31,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周奶妈",
+            "age": 49,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "哥嫂侄儿",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "素云",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "湘云母",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "彩儿",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王信",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "先皇",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾琏",
+            "age": 46,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "胡老爷太太",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "金氏",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王成",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "于老爷",
+            "age": 35,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "倪二",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王老爷",
+            "age": 31,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "三姑娘",
+            "age": 30,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾赦",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李婶",
+            "age": 34,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "挑云",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周氏",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "林如海之父",
+            "age": 49,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王狗儿",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "夏三",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "龄官",
+            "age": 43,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "孙亲太太",
+            "age": 41,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "林如海之子",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "冷子兴",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛宝琴",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "冯紫英",
+            "age": 46,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "西宁郡王之孙",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王子腾夫人",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾四姐",
+            "age": 49,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "傻大姐的娘",
+            "age": 50,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "白金钏",
+            "age": 28,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "紫绡",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "二姑娘",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "同喜",
+            "age": 34,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "石光珠",
+            "age": 24,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "薛蟠",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "戴权",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "多姑娘儿",
+            "age": 36,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "张如圭",
+            "age": 38,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "入画",
+            "age": 42,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王子胜",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾桂",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "锦乡侯",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "夏守忠",
+            "age": 44,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "张金哥",
+            "age": 38,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "刘姥姥",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "花袭人",
+            "age": 44,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "许氏",
+            "age": 26,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "邢忠",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "王青儿",
+            "age": 30,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾王扁",
+            "age": 30,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "秦钟",
+            "age": 47,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾宝玉",
+            "age": 33,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "袭人",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾王扁之母",
+            "age": 23,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "周嫂子的儿子",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "长安府府太爷",
+            "age": 29,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "扫红",
+            "age": 27,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "太妃",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "镇国公诰命长男",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "戚建辉",
+            "age": 32,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾琮奶妈",
+            "age": 25,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "卜世仁",
+            "age": 33,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾喜鸾",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "赖嬷嬷",
+            "age": 25,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "西宁郡王妃",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "大姑娘",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "平儿",
+            "age": 35,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "王奶奶",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "傅试",
+            "age": 20,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "梅翰林",
+            "age": 45,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "陈翼",
+            "age": 32,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "牛清",
+            "age": 20,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "叶茗烟",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "柳湘莲",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾迎春",
+            "age": 20,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "柳二媳妇的妹子",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "宝珠",
+            "age": 30,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "北静王少妃",
+            "age": 24,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "地藏庵的圆心",
+            "age": 22,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾源",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾敬",
+            "age": 36,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "夏奶奶",
+            "age": 47,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "马贩子王短腿",
+            "age": 22,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "钱槐",
+            "age": 48,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "侍书",
+            "age": 29,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "张若锦",
+            "age": 45,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "李嬷嬷孙子",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "香菱",
+            "age": 45,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾雨村子",
+            "age": 27,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "媚人",
+            "age": 42,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾代儒",
+            "age": 48,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "杏奴",
+            "age": 23,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "金鸳鸯",
+            "age": 26,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "林红玉",
+            "age": 41,
+            "sex": "男"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾芸",
+            "age": 49,
+            "sex": "女"
+        }
+    },
+    {
+        "Person": {
+            "name": "贾探春",
+            "age": 37,
+            "sex": "女"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾代善",
+            "relation": "子",
+            "Person_tail": "贾源"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "娄氏",
+            "relation": "重孙媳妇",
+            "Person_tail": "贾源"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾母",
+            "relation": "妻",
+            "Person_tail": "贾代善"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "老姨奶奶",
+            "relation": "妾",
+            "Person_tail": "贾代善"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敏",
+            "relation": "女",
+            "Person_tail": "贾代善"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "嫣红",
+            "relation": "妾",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "翠云",
+            "relation": "妾",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "娇红",
+            "relation": "妾",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾迎春",
+            "relation": "女",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵姨娘",
+            "relation": "妾",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周姨娘",
+            "relation": "妾",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾珠",
+            "relation": "子",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤二姐",
+            "relation": "妾",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秋桐",
+            "relation": "妾",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "平儿",
+            "relation": "妾",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛宝衩",
+            "relation": "妻",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "花袭人",
+            "relation": "妾",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾桂",
+            "relation": "子",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾菌",
+            "relation": "子",
+            "Person_tail": "娄氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周秀才",
+            "relation": "姐夫",
+            "Person_tail": "贾巧姐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周财主",
+            "relation": "父亲",
+            "Person_tail": "周秀才"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周妈妈",
+            "relation": "母亲",
+            "Person_tail": "周秀才"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "孙亲太太",
+            "relation": "母亲",
+            "Person_tail": "孙绍祖"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "刑大舅二姐",
+            "relation": "妹",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "邢德全",
+            "relation": "弟",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张大老爷",
+            "relation": "老亲",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "邢忠",
+            "relation": "兄",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张大老爷之女",
+            "relation": "女",
+            "Person_tail": "张大老爷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "刑秞烟",
+            "relation": "女",
+            "Person_tail": "邢忠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李婶",
+            "relation": "弟媳",
+            "Person_tail": "李守中"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李婶之弟",
+            "relation": "弟",
+            "Person_tail": "李婶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李纹",
+            "relation": "女",
+            "Person_tail": "李婶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "甄宝玉",
+            "relation": "夫",
+            "Person_tail": "李绮"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "甄应嘉",
+            "relation": "子",
+            "Person_tail": "甄宝玉祖母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "甄夫人",
+            "relation": "妻",
+            "Person_tail": "甄应嘉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "大姑娘",
+            "relation": "女",
+            "Person_tail": "甄应嘉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "二姑娘",
+            "relation": "女",
+            "Person_tail": "甄应嘉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "三姑娘",
+            "relation": "女",
+            "Person_tail": "甄应嘉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "袭人之母",
+            "relation": "母亲",
+            "Person_tail": "袭人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "花自芳",
+            "relation": "兄",
+            "Person_tail": "袭人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周琼之子",
+            "relation": "夫",
+            "Person_tail": "贾探春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林如海之父",
+            "relation": "父亲",
+            "Person_tail": "林如海"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林如海之祖",
+            "relation": "祖父",
+            "Person_tail": "林如海"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林如海之子",
+            "relation": "子",
+            "Person_tail": "林如海"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李妈",
+            "relation": "乳母",
+            "Person_tail": "贾巧姐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "昭儿",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "兴儿",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "隆儿",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "庆儿",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵天梁",
+            "relation": "子",
+            "Person_tail": "赵嬷嬷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵天栋",
+            "relation": "子",
+            "Person_tail": "赵嬷嬷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王信",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王信媳妇",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "鲍二",
+            "relation": "奴仆",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "善姐",
+            "relation": "丫鬟",
+            "Person_tail": "尤二姐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "迎春乳母",
+            "relation": "乳母",
+            "Person_tail": "贾迎春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王住儿媳妇",
+            "relation": "子媳",
+            "Person_tail": "迎春乳母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "绣桔",
+            "relation": "丫鬟",
+            "Person_tail": "贾迎春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "莲花儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾迎春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秦思祺",
+            "relation": "丫鬟",
+            "Person_tail": "贾迎春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "潘又安",
+            "relation": "男友",
+            "Person_tail": "秦思祺"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾琮奶妈",
+            "relation": "乳母",
+            "Person_tail": "贾琮"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "篆儿",
+            "relation": "丫鬟",
+            "Person_tail": "刑秞烟"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "新进来的奶子",
+            "relation": "奶妈",
+            "Person_tail": "贾兰"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "素云",
+            "relation": "丫鬟",
+            "Person_tail": "李纨"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "碧月",
+            "relation": "丫鬟",
+            "Person_tail": "李纨"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "抱琴",
+            "relation": "丫鬟",
+            "Person_tail": "贾元春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "宋嬷嬷",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "叶茗烟",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "锄药",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "扫红",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "墨雨",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "引泉",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "扫花",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "挑云",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "伴鹤",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "双瑞",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "双寿",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "老叶妈",
+            "relation": "母亲",
+            "Person_tail": "叶茗烟"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李贵",
+            "relation": "子",
+            "Person_tail": "李嬷嬷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李嬷嬷孙子",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王荣",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张若锦",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵亦华",
+            "relation": "奴仆",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周瑞",
+            "relation": "奴仆",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周瑞女儿",
+            "relation": "女",
+            "Person_tail": "周瑞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "冷子兴",
+            "relation": "女婿",
+            "Person_tail": "周瑞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周嫂子的儿子",
+            "relation": "子",
+            "Person_tail": "周瑞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "何三",
+            "relation": "干儿子",
+            "Person_tail": "周瑞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "白金钏",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "白玉钏",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩云",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩鸾",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "绣鸾",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "绣凤",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "白老媳妇",
+            "relation": "母亲",
+            "Person_tail": "白金钏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "白老媳妇",
+            "relation": "母亲",
+            "Person_tail": "白玉钏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩霞之母",
+            "relation": "母亲",
+            "Person_tail": "彩霞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小霞",
+            "relation": "妹",
+            "Person_tail": "彩霞"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小鹊",
+            "relation": "丫鬟",
+            "Person_tail": "赵姨娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小吉祥",
+            "relation": "丫鬟",
+            "Person_tail": "赵姨娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赵国基",
+            "relation": "兄",
+            "Person_tail": "赵姨娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "钱槐",
+            "relation": "表兄",
+            "Person_tail": "赵姨娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "钱槐",
+            "relation": "奴仆",
+            "Person_tail": "贾环"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "雪雁",
+            "relation": "丫鬟",
+            "Person_tail": "林黛玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "林黛玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "紫鹊",
+            "relation": "丫鬟",
+            "Person_tail": "林黛玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "春纤",
+            "relation": "丫鬟",
+            "Person_tail": "林黛玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "藕官",
+            "relation": "丫鬟",
+            "Person_tail": "林黛玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赖嬷嬷",
+            "relation": "母亲",
+            "Person_tail": "赖大"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赖尚荣",
+            "relation": "子",
+            "Person_tail": "赖大"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "赖大的女儿",
+            "relation": "女",
+            "Person_tail": "赖大"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "来旺儿",
+            "relation": "奴仆",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "旺儿媳妇",
+            "relation": "丫鬟",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "来喜家的",
+            "relation": "奴仆",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "丰儿",
+            "relation": "丫鬟",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩明",
+            "relation": "丫鬟",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林红玉",
+            "relation": "丫鬟",
+            "Person_tail": "王熙凤"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林之孝",
+            "relation": "父亲",
+            "Person_tail": "林红玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王善保",
+            "relation": "奴仆",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "费婆子",
+            "relation": "丫鬟",
+            "Person_tail": "邢夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "金鸳鸯",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "琥珀",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "鹦鹉",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "珍珠",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "翡翠",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "玻璃",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "文官",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "傻大姐的娘",
+            "relation": "母亲",
+            "Person_tail": "傻大姐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "金彩",
+            "relation": "父亲",
+            "Person_tail": "鸳鸯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "金文翔",
+            "relation": "兄",
+            "Person_tail": "鸳鸯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "多官",
+            "relation": "表哥",
+            "Person_tail": "晴雯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "多浑虫父亲",
+            "relation": "舅",
+            "Person_tail": "晴雯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "多姑娘儿",
+            "relation": "妻",
+            "Person_tail": "多官"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "吴贵",
+            "relation": "表兄",
+            "Person_tail": "晴雯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "花芳官",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "媚人",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "麝月",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "茜雪",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秋纹",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "绮霞",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "碧痕",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "檀云",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "四儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "佳蕙",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "坠儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "紫绡",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "良儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "何春燕",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "厨房中的柳家媳妇",
+            "relation": "母亲",
+            "Person_tail": "柳五儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "柳二媳妇的妹子",
+            "relation": "妹",
+            "Person_tail": "柳五儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "哥嫂侄儿",
+            "relation": "侄",
+            "Person_tail": "柳五儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "侍书",
+            "relation": "丫鬟",
+            "Person_tail": "贾探春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "翠墨",
+            "relation": "丫鬟",
+            "Person_tail": "贾探春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "艾官",
+            "relation": "丫鬟",
+            "Person_tail": "贾探春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小蝉",
+            "relation": "丫鬟",
+            "Person_tail": "贾探春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "何婆",
+            "relation": "母亲",
+            "Person_tail": "何春燕"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "何婆",
+            "relation": "干娘",
+            "Person_tail": "芳官"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小鸠儿",
+            "relation": "妹",
+            "Person_tail": "何春燕"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏婆子",
+            "relation": "姨妈",
+            "Person_tail": "何春燕"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏婆子",
+            "relation": "干娘",
+            "Person_tail": "藕官"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏婆子",
+            "relation": "外祖母",
+            "Person_tail": "小蝉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "蒋玉菡",
+            "relation": "朋友",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "通判傅试",
+            "relation": "门生",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "傅秋芳",
+            "relation": "妹",
+            "Person_tail": "傅试"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "太祖皇帝",
+            "relation": "父亲",
+            "Person_tail": "先皇"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "太上皇",
+            "relation": "子",
+            "Person_tail": "先皇"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "皇太后",
+            "relation": "妻",
+            "Person_tail": "太上皇"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "太妃",
+            "relation": "嫔妃",
+            "Person_tail": "太上皇"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "皇帝",
+            "relation": "子",
+            "Person_tail": "太上皇"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾元春",
+            "relation": "妃",
+            "Person_tail": "皇帝"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "吴贵妃",
+            "relation": "妃",
+            "Person_tail": "皇帝"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周贵人",
+            "relation": "妃",
+            "Person_tail": "皇帝"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周贵人父亲",
+            "relation": "父亲",
+            "Person_tail": "周贵人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "吴天佑",
+            "relation": "父亲",
+            "Person_tail": "吴贵妃"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "戴权",
+            "relation": "臣",
+            "Person_tail": "皇帝"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏守忠",
+            "relation": "臣",
+            "Person_tail": "皇帝"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾代化",
+            "relation": "子",
+            "Person_tail": "贾演"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "焦大",
+            "relation": "奴仆",
+            "Person_tail": "贾演"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敷",
+            "relation": "子",
+            "Person_tail": "贾代化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敬",
+            "relation": "子",
+            "Person_tail": "贾代化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾惜春",
+            "relation": "女",
+            "Person_tail": "贾敬"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "史湘云爷爷",
+            "relation": "子",
+            "Person_tail": "史侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "史鼐",
+            "relation": "子",
+            "Person_tail": "史湘云爷爷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "史鼎",
+            "relation": "子",
+            "Person_tail": "史湘云爷爷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "湘云母",
+            "relation": "儿媳",
+            "Person_tail": "史湘云爷爷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "史鼎的夫人",
+            "relation": "妻",
+            "Person_tail": "史鼎"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "史湘云",
+            "relation": "女",
+            "Person_tail": "湘云母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "卫若兰",
+            "relation": "夫",
+            "Person_tail": "史湘云"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "翠缕",
+            "relation": "丫鬟",
+            "Person_tail": "史湘云"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "葵官",
+            "relation": "丫鬟",
+            "Person_tail": "史湘云"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "周奶妈",
+            "relation": "乳母",
+            "Person_tail": "史湘云"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "凤姐之祖王夫人之父",
+            "relation": "子",
+            "Person_tail": "王公"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王夫人之大兄凤姐之父",
+            "relation": "子",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王子腾",
+            "relation": "子",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王子胜",
+            "relation": "子",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王夫人",
+            "relation": "女",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛姨妈",
+            "relation": "女",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王成父",
+            "relation": "侄",
+            "Person_tail": "凤姐之祖王夫人之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "老舅太太",
+            "relation": "妻",
+            "Person_tail": "王夫人之大兄凤姐之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王仁",
+            "relation": "子",
+            "Person_tail": "王夫人之大兄凤姐之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王熙凤",
+            "relation": "女",
+            "Person_tail": "王夫人之大兄凤姐之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王子腾夫人",
+            "relation": "妻",
+            "Person_tail": "王子腾"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王子腾之女",
+            "relation": "女",
+            "Person_tail": "王子腾"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "保宁侯之子",
+            "relation": "夫",
+            "Person_tail": "王子腾之女"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王成",
+            "relation": "子",
+            "Person_tail": "王成父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王狗儿",
+            "relation": "子",
+            "Person_tail": "王成"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "刘氏",
+            "relation": "妻",
+            "Person_tail": "王狗儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王青儿",
+            "relation": "女",
+            "Person_tail": "王狗儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王板儿",
+            "relation": "子",
+            "Person_tail": "王狗儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "刘姥姥",
+            "relation": "母亲",
+            "Person_tail": "刘氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "宝钗祖父",
+            "relation": "子",
+            "Person_tail": "薛公"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛公之孙",
+            "relation": "子",
+            "Person_tail": "宝钗祖父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛宝琴父",
+            "relation": "子",
+            "Person_tail": "宝钗祖父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛姨妈",
+            "relation": "妻",
+            "Person_tail": "薛公之孙"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛宝钗",
+            "relation": "女",
+            "Person_tail": "薛公之孙"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛蟠",
+            "relation": "子",
+            "Person_tail": "薛公之孙"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "同喜",
+            "relation": "丫鬟",
+            "Person_tail": "薛姨妈"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "同贵",
+            "relation": "丫鬟",
+            "Person_tail": "薛姨妈"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "莺儿",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝钗"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "文杏",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝钗"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "喜儿",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝钗"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "蕊官",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝钗"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏金桂",
+            "relation": "妻",
+            "Person_tail": "薛蟠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "老苍头",
+            "relation": "乳父",
+            "Person_tail": "薛蟠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "宝蟾",
+            "relation": "丫鬟",
+            "Person_tail": "夏金桂"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小舍儿",
+            "relation": "丫鬟",
+            "Person_tail": "夏金桂"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏奶奶",
+            "relation": "母亲",
+            "Person_tail": "夏金桂"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "夏三",
+            "relation": "子",
+            "Person_tail": "夏奶奶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "臻儿",
+            "relation": "丫鬟",
+            "Person_tail": "香菱"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛宝琴母",
+            "relation": "妻",
+            "Person_tail": "薛宝琴父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛蝌",
+            "relation": "子",
+            "Person_tail": "薛宝琴父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "薛宝琴",
+            "relation": "女",
+            "Person_tail": "薛宝琴父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "邢岫烟",
+            "relation": "妻",
+            "Person_tail": "薛蝌"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "梅翰林之子",
+            "relation": "夫",
+            "Person_tail": "薛宝琴"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小螺",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝琴"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "荳官",
+            "relation": "丫鬟",
+            "Person_tail": "薛宝琴"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "梅翰林",
+            "relation": "父亲",
+            "Person_tail": "梅翰林之子"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾瑞之父",
+            "relation": "子",
+            "Person_tail": "贾代儒"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾瑞之母",
+            "relation": "妻",
+            "Person_tail": "贾瑞之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾瑞",
+            "relation": "子",
+            "Person_tail": "贾瑞之父"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾琼",
+            "relation": "子",
+            "Person_tail": "贾琼之母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾四姐",
+            "relation": "女",
+            "Person_tail": "贾琼之母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾王扁",
+            "relation": "子",
+            "Person_tail": "贾王扁之母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾喜鸾",
+            "relation": "女",
+            "Person_tail": "贾王扁之母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾芸",
+            "relation": "子",
+            "Person_tail": "五嫂子卜氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "卜世仁",
+            "relation": "兄弟",
+            "Person_tail": "五嫂子卜氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "小丫头子",
+            "relation": "丫鬟",
+            "Person_tail": "贾芸"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "倪儿娘子",
+            "relation": "妻",
+            "Person_tail": "倪二"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "倪二女儿",
+            "relation": "女",
+            "Person_tail": "倪二"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "马贩子王短腿",
+            "relation": "友人",
+            "Person_tail": "倪二"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "卜世仁娘子",
+            "relation": "妻",
+            "Person_tail": "卜世仁"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "卜银姐",
+            "relation": "女",
+            "Person_tail": "卜世仁"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王奶奶",
+            "relation": "邻居",
+            "Person_tail": "卜世仁"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "卜世仁店里伙计",
+            "relation": "伙计",
+            "Person_tail": "卜世仁"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾芹",
+            "relation": "子",
+            "Person_tail": "周氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "金氏",
+            "relation": "妻",
+            "Person_tail": "贾璜"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "胡氏",
+            "relation": "嫂",
+            "Person_tail": "金氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "金荣",
+            "relation": "子",
+            "Person_tail": "胡氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "娇杏",
+            "relation": "妻",
+            "Person_tail": "贾化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾雨村子",
+            "relation": "子",
+            "Person_tail": "贾化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "应天府门子",
+            "relation": "子",
+            "Person_tail": "贾化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张如圭",
+            "relation": "友人",
+            "Person_tail": "贾化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王老爷",
+            "relation": "友人",
+            "Person_tail": "贾化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "天子之妻",
+            "relation": "妻",
+            "Person_tail": "应天府门子"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "东安郡王穆莳拜",
+            "relation": "子",
+            "Person_tail": "东平郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "南安王太妃",
+            "relation": "妻",
+            "Person_tail": "南安郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "南安郡王之孙",
+            "relation": "孙子",
+            "Person_tail": "南安郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "西宁郡王之孙",
+            "relation": "孙子",
+            "Person_tail": "西宁郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "西宁郡王妃",
+            "relation": "妻",
+            "Person_tail": "西宁郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "北静王太妃",
+            "relation": "儿媳",
+            "Person_tail": "北静郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "北静王少妃",
+            "relation": "妻",
+            "Person_tail": "水溶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "北静郡王长府官",
+            "relation": "臣",
+            "Person_tail": "水溶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "镇国公诰命",
+            "relation": "妻",
+            "Person_tail": "牛清"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "镇国公诰命长男",
+            "relation": "子",
+            "Person_tail": "牛清"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "牛继宗",
+            "relation": "孙子",
+            "Person_tail": "牛清"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "柳芳",
+            "relation": "孙子",
+            "Person_tail": "柳彪"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "陈瑞文",
+            "relation": "孙子",
+            "Person_tail": "陈翼"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "马尚",
+            "relation": "孙子",
+            "Person_tail": "马魁"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "侯孝康",
+            "relation": "孙子",
+            "Person_tail": "侯明"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "缮国公诰命",
+            "relation": "妻",
+            "Person_tail": "缮国公"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "石光珠",
+            "relation": "孙子",
+            "Person_tail": "缮国公"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "蒋子宁",
+            "relation": "孙子",
+            "Person_tail": "平原侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "谢鲸",
+            "relation": "孙子",
+            "Person_tail": "定城侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "戚建辉",
+            "relation": "孙子",
+            "Person_tail": "襄阳侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "裘良",
+            "relation": "孙子",
+            "Person_tail": "景田侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "锦乡侯诰命",
+            "relation": "妻",
+            "Person_tail": "锦乡侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "韩奇",
+            "relation": "子",
+            "Person_tail": "锦乡侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "冯紫英",
+            "relation": "子",
+            "Person_tail": "神武将军冯唐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "锦田侯诰命",
+            "relation": "施主",
+            "Person_tail": "马道婆"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "蕊官",
+            "relation": "徒弟",
+            "Person_tail": "地藏庵的圆心"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "藕官",
+            "relation": "徒弟",
+            "Person_tail": "圆心"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智能儿",
+            "relation": "徒弟",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智善",
+            "relation": "徒弟",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智通",
+            "relation": "徒弟",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "于老爷",
+            "relation": "施主",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "胡老爷",
+            "relation": "施主",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "胡老爷太太",
+            "relation": "施主",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "胡老爷公子",
+            "relation": "施主",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张大财主",
+            "relation": "施主",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "花芳官",
+            "relation": "徒弟",
+            "Person_tail": "智能"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "张金哥",
+            "relation": "女",
+            "Person_tail": "张大财主"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李公子",
+            "relation": "雇主",
+            "Person_tail": "张金哥"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "长安原任守备",
+            "relation": "父亲",
+            "Person_tail": "李公子"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李衙内",
+            "relation": "小舅子",
+            "Person_tail": "长安府府太爷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾代化",
+            "relation": "子",
+            "Person_tail": "贾演"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "焦大",
+            "relation": "奴仆",
+            "Person_tail": "贾演"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敷",
+            "relation": "子",
+            "Person_tail": "贾代化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敬",
+            "relation": "子",
+            "Person_tail": "贾代化"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤氏",
+            "relation": "女",
+            "Person_tail": "尤老娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾蔷",
+            "relation": "玄孙",
+            "Person_tail": "贾演"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "龄官",
+            "relation": "女友",
+            "Person_tail": "贾蔷"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "佩凤",
+            "relation": "妾",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "偕鸾",
+            "relation": "妾",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "文花",
+            "relation": "妾",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "茄官",
+            "relation": "丫鬟",
+            "Person_tail": "尤氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "银蝶",
+            "relation": "丫鬟",
+            "Person_tail": "尤氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "炒豆儿",
+            "relation": "丫鬟",
+            "Person_tail": "尤氏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秦可卿",
+            "relation": "妻",
+            "Person_tail": "贾蓉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "胡氏",
+            "relation": "续弦",
+            "Person_tail": "贾蓉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "许氏",
+            "relation": "续弦",
+            "Person_tail": "贾蓉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "入画",
+            "relation": "丫鬟",
+            "Person_tail": "贾惜春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩屏",
+            "relation": "丫鬟",
+            "Person_tail": "贾惜春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾惜春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "瑞珠",
+            "relation": "丫鬟",
+            "Person_tail": "秦可卿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "宝珠",
+            "relation": "丫鬟",
+            "Person_tail": "秦可卿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秦钟",
+            "relation": "子",
+            "Person_tail": "秦业"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智能儿",
+            "relation": "女友",
+            "Person_tail": "秦钟"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "净虚",
+            "relation": "师父",
+            "Person_tail": "智能儿"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智善",
+            "relation": "徒弟",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "智通",
+            "relation": "徒弟",
+            "Person_tail": "净虚"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "喜儿",
+            "relation": "奴仆",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "寿儿",
+            "relation": "奴仆",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤三姐",
+            "relation": "女友",
+            "Person_tail": "柳湘莲"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "杏奴",
+            "relation": "奴仆",
+            "Person_tail": "柳湘莲"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤二姐",
+            "relation": "妾",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "善姐",
+            "relation": "丫鬟",
+            "Person_tail": "尤二姐"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "甄宝玉",
+            "relation": "夫",
+            "Person_tail": "李绮"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾演",
+            "relation": "兄",
+            "Person_tail": "贾源"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾赦",
+            "relation": "子",
+            "Person_tail": "贾代善"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾政",
+            "relation": "子",
+            "Person_tail": "贾代善"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾敏",
+            "relation": "妹",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "邢夫人",
+            "relation": "妻",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾琏",
+            "relation": "子",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾琮",
+            "relation": "子",
+            "Person_tail": "贾赦"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王夫人",
+            "relation": "妻",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾元春",
+            "relation": "女",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾宝玉",
+            "relation": "子",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾探春",
+            "relation": "女",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾环",
+            "relation": "子",
+            "Person_tail": "贾政"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王熙凤",
+            "relation": "妻",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾巧姐",
+            "relation": "女",
+            "Person_tail": "贾琏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾兰",
+            "relation": "子",
+            "Person_tail": "贾珠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李纨",
+            "relation": "妻",
+            "Person_tail": "贾珠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "孙绍祖",
+            "relation": "夫",
+            "Person_tail": "贾迎春"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李守中",
+            "relation": "父亲",
+            "Person_tail": "李纨"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "李绮",
+            "relation": "女",
+            "Person_tail": "李婶"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "甄宝玉",
+            "relation": "子",
+            "Person_tail": "甄应嘉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林如海",
+            "relation": "夫",
+            "Person_tail": "贾敏"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "林黛玉",
+            "relation": "女",
+            "Person_tail": "林如海"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "王嬷嬷",
+            "relation": "乳母",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "彩霞",
+            "relation": "丫鬟",
+            "Person_tail": "王夫人"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "傻大姐",
+            "relation": "丫鬟",
+            "Person_tail": "贾母"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "晴雯",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "篆儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "柳五儿",
+            "relation": "丫鬟",
+            "Person_tail": "贾宝玉"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾珍",
+            "relation": "子",
+            "Person_tail": "贾敬"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾母",
+            "relation": "女",
+            "Person_tail": "史侯"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "香菱",
+            "relation": "妾",
+            "Person_tail": "薛蟠"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "倪二",
+            "relation": "友人",
+            "Person_tail": "贾芸"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "水溶",
+            "relation": "孙子",
+            "Person_tail": "北静郡王"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤氏",
+            "relation": "妻",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤二姐",
+            "relation": "女",
+            "Person_tail": "尤老娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "尤三姐",
+            "relation": "女",
+            "Person_tail": "尤老娘"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "贾蓉",
+            "relation": "子",
+            "Person_tail": "贾珍"
+        }
+    },
+    {
+        "Triple": {
+            "Person_head": "秦可卿",
+            "relation": "女",
+            "Person_tail": "秦业"
+        }
+    }
+]
